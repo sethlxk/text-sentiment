@@ -24,5 +24,3 @@ def result():
 if __name__ == "__main__":
     app.run()
 
-jupyter nbconvert app.ipynb --to python
-
